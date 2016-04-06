@@ -1,3 +1,4 @@
 # RubyOnRails
 
-A mini blog with three articles. 
+Projects on the website openclassroom.
+ 
